@@ -1,5 +1,11 @@
 # frontend
 
+## 5.1.19
+
+### Patch Changes
+
+- [`e019662`](https://github.com/Team3132/AttendanceSystem/commit/e019662eb9e37823114d694f2507659bdf9394bb) Thanks [@sebasptsch](https://github.com/sebasptsch)! - Collect access tokens in preparation for notification editing
+
 ## 5.1.18
 
 ## 5.1.17
